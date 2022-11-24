@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm iOS Software Developer, I have experience with <br><br>- Swift e UIKit<br>- Arquiteturas MVVM e MVC<br>- Testes unitários<br>- API REST<br>- Core Data<br>- CocoaPods<br>- Alamofire, Firebase, OpenWeather<br>- Versionamento com GIT<br>- SOLID
+I'm iOS Software Developer, I have experience with <br><br>- Swift and UIKit<br>- MVVM and MVC architectures<br>- Unitary tests<br>- REST API<br>- Core Data<br>- CocoaPods<br>- Alamofire, Firebase, OpenWeather<br>- Versioning with GIT<br>- SOLID
 
 
 ## 🌐 Socials:
