@@ -15,8 +15,7 @@ I'm iOS Software Developer, I have experience with <br><br>- Swift and UIKit<br>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=JheniferDias&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
----
-[![](https://visitcount.itsvg.in/api?id=JheniferDias&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
 
