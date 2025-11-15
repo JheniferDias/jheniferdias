@@ -5,11 +5,11 @@ Hi there! 👋 I'm an **iOS Software Developer** passionate about building amazi
 ## 🚀 Skills and Expertise
 
 ### iOS Development
-- **Languages:** Swift (proficient), SwiftUI, Objective-C (intermediate)
-- **Frameworks:** UIKit, Combine, RxSwift (intermediate), Firebase (intermediate)
+- **Languages:** Swift (proficient), SwiftUI
+- **Frameworks:** UIKit, Combine, Firebase 
 - **Testing:** XCTest, Swift Testing, Unitary Tests
 - **Architectures:** MVVM, MVC, VIPER, Clean Architecture
-- **Design Patterns:** Deep knowledge of common patterns (e.g., Singleton, Observer, Factory)
+- **Design Patterns:** Deep knowledge of common patterns
 - **Dependency Management:** CocoaPods, Swift Package Manager
 - **CI/CD:** Experienced in setting up continuous integration and deployment pipelines
 
@@ -34,11 +34,11 @@ Connect with me on [LinkedIn](https://www.linkedin.com).
 Here's an overview of the tools and technologies I work with:
 
 - **Languages & Frameworks:**
-  - Swift, SwiftUI, Objective-C
-  - UIKit, Combine, RxSwift
+  - Swift, SwiftUI
+  - UIKit, Combine
 
 - **Libraries & Tools:**
-  - Firebase, Alamofire, CocoaPods, Core Data
+  - Firebase, Alamofire, CocoaPods, CoreData
   
 - **Productivity & Design:**
   - Adobe XD, Figma, Postman, Swagger, Jira, Trello, Notion
